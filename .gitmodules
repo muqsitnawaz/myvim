@@ -1,0 +1,33 @@
+[submodule "YouCompleteMe"]
+path = bundle/YouCompleteMe
+url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "auto-pairs"]
+path = bundle/auto-pairs
+url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "awesome-vim-colorschemes"]
+path = bundle/awesome-vim-colorschemes
+url = https://github.com/rafi/awesome-vim-colorschemes.git
+[submodule "goyo.vim"]
+path = bundle/goyo.vim
+url = https://github.com/junegunn/goyo.vim.git
+[submodule "lightline.vim"]
+path = bundle/lightline.vim
+url = https://github.com/itchyny/lightline.vim.git
+[submodule "limelight.vim"]
+path = bundle/limelight.vim
+url = https://github.com/junegunn/limelight.vim.git
+[submodule "nerdtree"]
+path = bundle/nerdtree
+url = https://github.com/scrooloose/nerdtree.git
+[submodule "tagbar"]
+path = bundle/tagbar
+url = https://github.com/majutsushi/tagbar.git
+[submodule "tcomment_vim"]
+path = bundle/tcomment_vim
+url = https://github.com/tomtom/tcomment_vim.git
+[submodule "vim-auto-save"]
+path = bundle/vim-auto-save
+url = https://github.com/vim-scripts/vim-auto-save.git
+[submodule "vim-indent-guides"]
+path = bundle/vim-indent-guides
+url = https://github.com/nathanaelkane/vim-indent-guides.git
