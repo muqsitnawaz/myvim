@@ -1,4 +1,4 @@
-# myvim
+##  myvim
 My vim configuration to boost productivity ~ 1.5x. It includes the following plugins:
 
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe.git): Syntax checking and more
@@ -13,14 +13,10 @@ My vim configuration to boost productivity ~ 1.5x. It includes the following plu
 - [vim-auto-save](https://github.com/vim-scripts/vim-auto-save.git): Auto save on `Esc` key
 - [vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides.git): Visually display indent levels
 
-Installation
-------------
+### Installation
 
 `cd ~`  
 `git clone https://github.com/muqsitnawaz/myvim.git`  
-`mkdir .vim && mv myvim/ .vim/`  
-`git submodule update --init --recursive`  
-`mv .vimrc .ycm_extra_conf.py ~/`  
-`cd .vim/bundle/YouCompleteMe`  
-
-Now install [YCM](https://github.com/Valloric/YouCompleteMe.git). Enjoy!
+`mv myvim .vim`  
+`git submodule update --init --recursive` 
+`mv .vimrc ~/.vimrc`
